@@ -14,6 +14,5 @@ def main():
 	print("The sum is:", sum_list(lst))
 
 
-
 if __name__ == "__main__":
 	main()
