@@ -1,4 +1,4 @@
-def my_min(x=None, y=None, z=None):
+def my_min(x: float=None, y: float=None, z: float=None):
 	if x is None or y is None or z is None:
 		return 0
 	else:
